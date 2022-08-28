@@ -1,0 +1,15 @@
+/Users/ekaterinamakarova/Example/123/Examples/Example003_Sum/bin/Debug/net6.0/Example003_Sum
+/Users/ekaterinamakarova/Example/123/Examples/Example003_Sum/bin/Debug/net6.0/Example003_Sum.deps.json
+/Users/ekaterinamakarova/Example/123/Examples/Example003_Sum/bin/Debug/net6.0/Example003_Sum.runtimeconfig.json
+/Users/ekaterinamakarova/Example/123/Examples/Example003_Sum/bin/Debug/net6.0/Example003_Sum.dll
+/Users/ekaterinamakarova/Example/123/Examples/Example003_Sum/bin/Debug/net6.0/Example003_Sum.pdb
+/Users/ekaterinamakarova/Example/123/Examples/Example003_Sum/obj/Debug/net6.0/Example003_Sum.csproj.AssemblyReference.cache
+/Users/ekaterinamakarova/Example/123/Examples/Example003_Sum/obj/Debug/net6.0/Example003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinamakarova/Example/123/Examples/Example003_Sum/obj/Debug/net6.0/Example003_Sum.AssemblyInfoInputs.cache
+/Users/ekaterinamakarova/Example/123/Examples/Example003_Sum/obj/Debug/net6.0/Example003_Sum.AssemblyInfo.cs
+/Users/ekaterinamakarova/Example/123/Examples/Example003_Sum/obj/Debug/net6.0/Example003_Sum.csproj.CoreCompileInputs.cache
+/Users/ekaterinamakarova/Example/123/Examples/Example003_Sum/obj/Debug/net6.0/Example003_Sum.dll
+/Users/ekaterinamakarova/Example/123/Examples/Example003_Sum/obj/Debug/net6.0/refint/Example003_Sum.dll
+/Users/ekaterinamakarova/Example/123/Examples/Example003_Sum/obj/Debug/net6.0/Example003_Sum.pdb
+/Users/ekaterinamakarova/Example/123/Examples/Example003_Sum/obj/Debug/net6.0/Example003_Sum.genruntimeconfig.cache
+/Users/ekaterinamakarova/Example/123/Examples/Example003_Sum/obj/Debug/net6.0/ref/Example003_Sum.dll
